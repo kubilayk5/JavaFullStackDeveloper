@@ -1,7 +1,15 @@
+# special data
+/log
+/memory_persist
+/blog/node_modules
+/dockerize/
+# /src/main/resources/application.properties
+
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
+!blog/src/component/main/**/target/
 !**/src/test/**/target/
 
 ### STS ###
@@ -26,7 +34,7 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-!**/src/main/**/build/
+!blog/src/component/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
