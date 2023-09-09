@@ -1,4 +1,4 @@
-package com.hamitmizrak;
+package com.kubilaykizilhan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

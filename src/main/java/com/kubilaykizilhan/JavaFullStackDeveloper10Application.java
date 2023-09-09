@@ -1,4 +1,4 @@
-package com.hamitmizrak;
+package com.kubilaykizilhan;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.boot.SpringApplication;
